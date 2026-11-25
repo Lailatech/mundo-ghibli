@@ -1,0 +1,32 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  padding: 16px 32px;
+  background-color: #024c06;
+  border-bottom: 1px solid #295ce8;
+}
+
+.marca {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #e9f2f7;
+}
+
+.links {
+  display: flex;
+  list-style: none;
+  gap: 24px;
+}
+
+.link {
+  color: #f8fafc;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.link:hover {
+  color: #d8e9f0;
+}

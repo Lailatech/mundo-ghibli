@@ -1,0 +1,41 @@
+.sobre {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 48px 24px;
+}
+
+.sobre h1 {
+  font-size: 2rem;
+  margin-bottom: 14px;
+}
+
+.intro {
+  color: #0d0e0f;
+  line-height: 1.7;
+  margin-bottom: 28px;
+}
+
+.grade {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.bloco {
+  background-color: #31a22b;
+  border: 1px solid #31a22b;
+  border-radius: 12px;
+  padding: 24px;
+}
+
+.bloco h2 {
+  color: #dcedf4;
+  font-size: 1.15rem;
+  margin-bottom: 10px;
+}
+
+.bloco p {
+  color: #e2e8f0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
