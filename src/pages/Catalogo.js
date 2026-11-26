@@ -1,5 +1,5 @@
 import CardFilme from '../components/CardFilme';
-import styles from './Catalago.module.css';
+import styles from './Catalogo.module.css';
 
 import spiretedaway from '../assets/spiritedaway.jpg';
 import meuamigototoro from '../assets/meu-amigo-totoro-dvd-versátil.webp';

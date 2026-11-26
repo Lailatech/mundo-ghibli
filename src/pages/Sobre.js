@@ -5,7 +5,7 @@ function Sobre() {
     <section className={styles.sobre}>
       <h1>Sobre o Estúdio</h1>
       <p className={styles.intro}>
-        A história e o catálogo do Studio Ghibli desenvolvida em React.
+        A história e o catálogo do Studio Ghibli.
       </p>
 
       <div className={styles.grade}>
